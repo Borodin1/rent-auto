@@ -1,0 +1,31 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header-logo h1, .header-navigation  li{
+    color: #000;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.header-navigation ul {
+    display: flex;
+  flex-direction: row;
+  align-items: center;
+  }
+  
+  .header-navigation ul li {
+    list-style: none;
+    margin-left: 50px;
+  }
+
+
+  .header-navigation :hover     li {
+    text-decoration: underline;
+    text-decoration-color: #F1BC00;
+  }

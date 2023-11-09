@@ -1,0 +1,41 @@
+.home{
+    box-shadow: -20px -18px 0px 0px #C4C4C4;
+    margin-top: 15px;
+}
+
+.home-banner{
+    background-image: url(../../assets/bannerambo\ 1.png);
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: -2;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.home-text{
+    width: 308px;
+margin-top: 80px;
+}
+
+.home-text h1{
+    color: #000;
+font-family: DM Serif Display;
+font-size: 32px;
+font-style: normal;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.home-text p{
+    color: #000;
+font-family: Roboto;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-right: 20px;
+}
