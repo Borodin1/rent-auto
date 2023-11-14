@@ -1,0 +1,20 @@
+.services {
+  display: flex;
+  margin-top: 150px;
+}
+
+.services-icon {
+  display: flex;
+  align-items: center;
+}
+
+.services-icon svg {
+  position: absolute;
+}
+
+.services-icon svg:nth-child(2) {
+  margin-left: 195px;
+}
+.services-icon img {
+  position: relative;
+}

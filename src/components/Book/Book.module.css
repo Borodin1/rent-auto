@@ -1,19 +1,19 @@
+.book-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 24px;
+}
 .book {
   background: #c4c4c4;
   width: 1296px;
   height: 315px;
 }
 
-.book-info{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
 .book-text {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .book-text h1 {
@@ -34,4 +34,42 @@
   font-weight: 400;
   line-height: normal;
   width: 680px;
+}
+
+.book-inputs {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.book-inputs input {
+  border-radius: 26px;
+  border-style: none;
+  background: #fff9f9;
+  height: 50px;
+  background-size: 20px;
+  width: 200px;
+}
+
+.book-inputs-icons {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.book-inputs img {
+  position: absolute;
+}
+.book-inputs button {
+    border-radius: 26px;
+    border: none;
+    background: #21408e;
+    color: #fff;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10px;
+    width: 153px;
 }

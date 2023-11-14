@@ -1,0 +1,10 @@
+.invite-list {
+    display: flex;
+    justify-content: center;
+}
+
+.invite-list-info {
+    background-image: url(../../assets/driver-1\ 1.png);
+    width: 1299px;
+    height: 500px;
+}

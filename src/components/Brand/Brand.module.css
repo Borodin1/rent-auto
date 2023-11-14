@@ -1,0 +1,25 @@
+
+.brand {
+    border-radius: 13px;
+    background: #c4c4c4;
+    width: 181px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    cursor: pointer;
+  }
+  .brand h3 {
+    color: #000;
+    margin: 0;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+  
+  .brand-image {
+    width: 79px;
+  }
+  

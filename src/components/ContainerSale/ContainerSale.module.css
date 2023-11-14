@@ -1,0 +1,48 @@
+.container-sale h1 {
+  color: #000;
+  font-family: DM Serif Display;
+  font-size: 45px;
+  font-style: normal;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.container-sale-card {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.container-sale-brands {
+  margin-top: 150px;
+}
+
+.container-sale-brands h1 {
+  color: #000;
+  font-family: DM Serif Display;
+  font-size: 45px;
+  font-style: normal;
+  line-height: normal;
+  text-transform: capitalize;
+  margin-bottom:50px;
+}
+
+.container-sale-brands h4{
+  color: #000;
+font-family: Roboto;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+
+text-decoration-line: underline;
+text-decoration-color: #F1BC00;;
+
+}
+.brands {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
