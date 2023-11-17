@@ -73,3 +73,12 @@
     padding: 10px;
     width: 153px;
 }
+
+@media screen and (min-width:1025px) {
+  .book{
+    display: flex;
+    width: 900px;
+    margin: auto;
+    flex-direction: column;
+  }
+}

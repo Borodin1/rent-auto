@@ -1,6 +1,6 @@
 import "./App.css";
 import { ContainerSale } from "./components/ContainerSale";
-import { BlogPage, HeaderPage, HomePage, InviteListPage, ServicesPage } from "./pages/";
+import { BlogPage, FooterPage, HeaderPage, HomePage, InviteListPage, ServicesPage } from "./pages/";
 
 function App() {
   return <div className="App">
@@ -11,6 +11,7 @@ function App() {
       <ContainerSale/>
       <BlogPage/>
       <InviteListPage/>
+      <FooterPage/>
     </div>
   </div>;
 }

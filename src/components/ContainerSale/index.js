@@ -80,6 +80,8 @@ export const ContainerSale = () => {
         return <Card {...props} key={props.id}/>
       })}
       </div>
+
+      
       <div className={styles['container-sale-brands']}>
       <h1>Our Luxury Brand</h1>
       <div className={styles['brands']}>

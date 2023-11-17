@@ -1,4 +1,12 @@
 .App {
   text-align: center;
-  align-items: center;
+  max-width: 1440px; /* Ограничение максимальной ширины */
+
+}
+
+@media only screen and (min-width: 1025px) {
+  .App{
+    text-align: center;
+    align-items: center;
+  }
 }

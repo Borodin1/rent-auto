@@ -22,15 +22,15 @@ export const Card = (props)=>{
                 <div className={styles["container-description"]}>
                   <div className={styles["container-date"]}>{year}</div>
                   <div className={styles["container-indicators"]}>
-                    <div>
+                    <div className={styles['container-indicator']}>
                       <img src={speedmeter} alt="speedmeter" />
                       {mileage}
                     </div>
-                    <div>
+                    <div className={styles['container-indicator']}>
                       <img src={pause} alt="pauseCircle" />
                       {pauseCircle}
                     </div>
-                    <div>
+                    <div className={styles['container-indicator']}>
                       <img src={vector} alt="vector" />
                       {gas}
                     </div>

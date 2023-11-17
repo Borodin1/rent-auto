@@ -1,6 +1,7 @@
 .blog-title {
   display: flex;
   justify-content: center;
+  margin-top: 148px;
 }
 
 .blog-title h2 {
@@ -27,5 +28,12 @@
   background-size: contain;
 }
 .blog-card p {
-  width: 372px;
+  width: 80%;
+}
+
+
+@media screen and (min-width:1025px) {
+  .blog-card p {
+    width: 100%;
+  }
 }

@@ -9,8 +9,8 @@
 
 .container-sale-card {
   display: flex;
-  justify-content: space-around;
-  flex-direction: row;
+    flex-direction: row;
+    justify-content: space-around;
 }
 
 .container-sale-brands {
@@ -35,9 +35,9 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 text-transform: capitalize;
-
 text-decoration-line: underline;
-text-decoration-color: #F1BC00;;
+text-decoration-color: #F1BC00;
+margin-top: 50px;
 
 }
 .brands {
@@ -46,3 +46,10 @@ text-decoration-color: #F1BC00;;
   justify-content: space-evenly;
 }
 
+@media screen and (min-width:1025px) {
+  .container-sale-card {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+}
