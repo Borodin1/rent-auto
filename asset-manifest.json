@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Borodin1/rent-auto/static/css/main.a2dba213.css",
-    "main.js": "/Borodin1/rent-auto/static/js/main.7cb914c9.js",
-    "static/media/driver-1 1.png": "/Borodin1/rent-auto/static/media/driver-1 1.5479a3b29b43c5a9a228.png",
-    "static/media/bannerambo 1.png": "/Borodin1/rent-auto/static/media/bannerambo 1.90b01b426c83e691c78a.png",
-    "static/media/2021_mercedes-benz_classe-c_cabriolet_amg-c-63-s_014_149 1.png": "/Borodin1/rent-auto/static/media/2021_mercedes-benz_classe-c_cabriolet_amg-c-63-s_014_149 1.79df2b19d7a1d342338c.png",
-    "static/media/audi-red.png": "/Borodin1/rent-auto/static/media/audi-red.2b4ed24879242bd025d2.png",
-    "static/media/audi-grey.png": "/Borodin1/rent-auto/static/media/audi-grey.3003a30bf67f29469c5f.png",
-    "static/media/dodge.png": "/Borodin1/rent-auto/static/media/dodge.6ec845f5084684d94e20.png",
-    "static/media/range.png": "/Borodin1/rent-auto/static/media/range.5304a32ec5555022e288.png",
-    "index.html": "/Borodin1/rent-auto/index.html",
-    "main.a2dba213.css.map": "/Borodin1/rent-auto/static/css/main.a2dba213.css.map",
-    "main.7cb914c9.js.map": "/Borodin1/rent-auto/static/js/main.7cb914c9.js.map"
+    "main.css": "/rent-auto/static/css/main.3d2a66e1.css",
+    "main.js": "/rent-auto/static/js/main.10481a1c.js",
+    "static/media/driver-1 1.png": "/rent-auto/static/media/driver-1 1.5479a3b29b43c5a9a228.png",
+    "static/media/bannerambo 1.png": "/rent-auto/static/media/bannerambo 1.90b01b426c83e691c78a.png",
+    "static/media/2021_mercedes-benz_classe-c_cabriolet_amg-c-63-s_014_149 1.png": "/rent-auto/static/media/2021_mercedes-benz_classe-c_cabriolet_amg-c-63-s_014_149 1.79df2b19d7a1d342338c.png",
+    "static/media/audi-red.png": "/rent-auto/static/media/audi-red.2b4ed24879242bd025d2.png",
+    "static/media/audi-grey.png": "/rent-auto/static/media/audi-grey.3003a30bf67f29469c5f.png",
+    "static/media/dodge.png": "/rent-auto/static/media/dodge.6ec845f5084684d94e20.png",
+    "static/media/range.png": "/rent-auto/static/media/range.5304a32ec5555022e288.png",
+    "index.html": "/rent-auto/index.html",
+    "main.3d2a66e1.css.map": "/rent-auto/static/css/main.3d2a66e1.css.map",
+    "main.10481a1c.js.map": "/rent-auto/static/js/main.10481a1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2dba213.css",
-    "static/js/main.7cb914c9.js"
+    "static/css/main.3d2a66e1.css",
+    "static/js/main.10481a1c.js"
   ]
 }
