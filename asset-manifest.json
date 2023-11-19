@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rent-auto/static/css/main.3d2a66e1.css",
-    "main.js": "/rent-auto/static/js/main.10481a1c.js",
+    "main.css": "/rent-auto/static/css/main.a85569cd.css",
+    "main.js": "/rent-auto/static/js/main.52cd318f.js",
     "static/media/driver-1 1.png": "/rent-auto/static/media/driver-1 1.5479a3b29b43c5a9a228.png",
     "static/media/bannerambo 1.png": "/rent-auto/static/media/bannerambo 1.90b01b426c83e691c78a.png",
     "static/media/2021_mercedes-benz_classe-c_cabriolet_amg-c-63-s_014_149 1.png": "/rent-auto/static/media/2021_mercedes-benz_classe-c_cabriolet_amg-c-63-s_014_149 1.79df2b19d7a1d342338c.png",
@@ -10,11 +10,11 @@
     "static/media/dodge.png": "/rent-auto/static/media/dodge.6ec845f5084684d94e20.png",
     "static/media/range.png": "/rent-auto/static/media/range.5304a32ec5555022e288.png",
     "index.html": "/rent-auto/index.html",
-    "main.3d2a66e1.css.map": "/rent-auto/static/css/main.3d2a66e1.css.map",
-    "main.10481a1c.js.map": "/rent-auto/static/js/main.10481a1c.js.map"
+    "main.a85569cd.css.map": "/rent-auto/static/css/main.a85569cd.css.map",
+    "main.52cd318f.js.map": "/rent-auto/static/js/main.52cd318f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d2a66e1.css",
-    "static/js/main.10481a1c.js"
+    "static/css/main.a85569cd.css",
+    "static/js/main.52cd318f.js"
   ]
 }
