@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rent-auto/static/css/main.a60fc394.css",
+    "main.css": "/rent-auto/static/css/main.a2710362.css",
     "main.js": "/rent-auto/static/js/main.52cd318f.js",
     "static/media/driver-1 1.png": "/rent-auto/static/media/driver-1 1.5479a3b29b43c5a9a228.png",
     "static/media/bannerambo 1.png": "/rent-auto/static/media/bannerambo 1.90b01b426c83e691c78a.png",
@@ -10,11 +10,11 @@
     "static/media/dodge.png": "/rent-auto/static/media/dodge.6ec845f5084684d94e20.png",
     "static/media/range.png": "/rent-auto/static/media/range.5304a32ec5555022e288.png",
     "index.html": "/rent-auto/index.html",
-    "main.a60fc394.css.map": "/rent-auto/static/css/main.a60fc394.css.map",
+    "main.a2710362.css.map": "/rent-auto/static/css/main.a2710362.css.map",
     "main.52cd318f.js.map": "/rent-auto/static/js/main.52cd318f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a60fc394.css",
+    "static/css/main.a2710362.css",
     "static/js/main.52cd318f.js"
   ]
 }
