@@ -1,6 +1,8 @@
 .footer {
   background: #081630;
+  width: 100%;
   margin-top: 100px;
+  padding-bottom: 50px;
 }
 
 .footer-main {
@@ -79,4 +81,24 @@
 }
 .footer-social-networks svg {
   margin-left: 10px;
+}
+
+
+@media only screen and (max-width:430px){
+  .footer-main{
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer-links{
+    margin-top: 20px;
+  }
+
+  .footer-link-title{
+    text-decoration:underline
+  }
+
+  .footer-line{
+    margin-top: 30px;
+  }
 }

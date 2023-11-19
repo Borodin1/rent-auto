@@ -71,7 +71,7 @@ const DUMMY_DATA_BRANDS=[
   {id:'br3',name:'Mercedes',img: mercedes,},
   {id:'br4',name:'Tesla',img:tesla,},
 ]
-export const ContainerSale = () => {
+export const  ContainerSale = () => {
   return (
     <div className={styles["container-sale"]}>
       <h1>we have everything you need</h1>

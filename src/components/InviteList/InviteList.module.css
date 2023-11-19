@@ -87,7 +87,7 @@
   border-radius: 10px;
   background: #21408e;
   width: 130px;
-  height: 60px;
+  height: 50px;
   border-style: none;
 
   color: #fff;
@@ -97,4 +97,39 @@
   font-weight: 400;
   line-height: normal;
   text-transform: capitalize;
+}
+
+@media only screen and (max-width:1024px){
+  .invite-list-info{
+    width: 700px;
+  }
+  .invite-list-input {
+    width: 500px;
+  }
+
+  .invite-list-input button{
+    height: 50px;
+  }
+}
+
+@media only screen and (max-width:430px){
+  .invite-list-info{
+width: 400px;
+  }
+
+  .invite-list-text h2{
+    width: 400px;
+  }
+
+  .invite-list-input{
+    flex-direction: column;
+  }
+
+  .invite-list-input input{
+    width: 300px;
+  }
+  .invite-list-input button {
+    position: static;
+    margin-top: 35px;
+  }
 }

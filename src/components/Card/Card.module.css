@@ -106,3 +106,15 @@
     text-transform: capitalize;
   }
   
+@media only screen and (max-width:1400px){
+  .container-auto{
+    margin-top: 40px;
+  }
+}
+
+
+  @media only screen and (max-width:1024px) {
+    .container-auto{
+      margin-bottom: 40px;
+    }
+  }

@@ -9,9 +9,9 @@ function App() {
       <HomePage/>
       <ServicesPage/>
       <ContainerSale/>
-      <BlogPage/>
-      <InviteListPage/>
-      <FooterPage/>
+  <BlogPage/>
+<InviteListPage/>
+   <FooterPage/>
     </div>
   </div>;
 }

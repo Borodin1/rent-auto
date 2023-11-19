@@ -2,6 +2,8 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
+    margin-top: 15px;
+    margin-bottom: 50px;
 }
 
 .header-logo h1, .header-navigation  li{
@@ -31,15 +33,27 @@ line-height: normal;
   }
 
 
-  @media screen and (min-width:1025px) {
-    .header{
-      display: flex;
-      align-items: center;
-      flex-direction: row;
-      justify-content: space-around;
-    }
+ 
 
-    .header-logo{
-      margin-left: 150px;
+  @media only screen and (max-width: 1200px) {
+    .header-navigation ul li {
+        margin-left: 40px; /* Уменьшаем отступ между элементами списка */
     }
+}
+
+@media only screen and (max-width: 1024px) {
+  .header-navigation ul li {
+      margin-left: 20px; /* Уменьшаем отступ между элементами списка */
   }
+}
+
+
+@media only screen and (max-width:430px){
+  .header{
+    flex-direction: column;
+  }
+
+  .header-navigation{
+    margin-top: 15px;
+  }
+}

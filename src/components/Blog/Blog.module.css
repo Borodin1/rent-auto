@@ -12,7 +12,7 @@
   font-style: normal;
   line-height: normal;
   width: 482px;
-  margin-bottom:50px
+  margin-bottom: 50px;
 }
 
 .blog-cards {
@@ -27,13 +27,27 @@
   background-size: cover;
   background-size: contain;
 }
+
+.blog-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .blog-card p {
   width: 80%;
 }
 
+@media screen and (max-width: 1024px) {
+  .blog-cards {
+    flex-direction: column;
+  }
 
-@media screen and (min-width:1025px) {
   .blog-card p {
     width: 100%;
+  }
+
+  .blog-text {
+    display: flex;
+    flex-direction: column;
   }
 }

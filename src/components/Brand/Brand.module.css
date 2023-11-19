@@ -23,3 +23,9 @@
     width: 79px;
   }
   
+
+  @media only screen and (max-width:430px){
+    .brand{
+      margin-top: 15px;
+    }
+  }
